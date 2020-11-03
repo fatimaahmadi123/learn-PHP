@@ -3,6 +3,7 @@
         <title>Registration</title>
     </head>
     <body>
+        <h1>Student regisration</h1>
         <form action="save_registration.php" method="POST">
             <label for="fname">First name:</label><br>
             <input type="text" id="fname" name="fname" value=""><br>
